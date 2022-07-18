@@ -1,0 +1,11 @@
+E:\C#\Windows Forms\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+E:\C#\Windows Forms\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+E:\C#\Windows Forms\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.AssemblyReference.cache
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.SuggestedBindingRedirects.cache
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.Form1.resources
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.cache
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.CoreCompileInputs.cache
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+E:\C#\Windows Forms\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
